@@ -1,5 +1,3 @@
 # HelloWorld
-Test Project for class
 
-I enjoy most board and card games
-I also spend my spare time reading
+Hello, World it's Alex Erikson
